@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="status">
+        <item>Forever Alone</item>
+        <item>Bitch Please</item>
+        <item>Challenge Accepted</item>
+        <item>Problem</item>
+    </array>
+
+    <array name="colors">
+        <item>Pink</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Orange</item>
+    </array>
+
+    <array name="mind_states">
+        <item>Feeling Crazy</item>
+        <item>Feeling Alone</item>
+        <item>Feeling Happy</item>
+    </array>
+
+</resources>
