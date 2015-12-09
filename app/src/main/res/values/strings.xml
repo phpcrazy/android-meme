@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Meme Generator</string>
-    <string name="enter_your_name">Enter your name</string>
+    <string name="text_here">Text here</string>
+    <string name="title_activity_setup">SetupActivity</string>
 </resources>
